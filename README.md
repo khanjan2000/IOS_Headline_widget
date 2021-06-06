@@ -1,1 +1,3 @@
-# IOS_Headline_widget
+# TopHeadlines-News
+
+![News](NewsWidget.gif)
